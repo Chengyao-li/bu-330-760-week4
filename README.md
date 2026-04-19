@@ -34,8 +34,7 @@ The agent will work through each question in `math_questions.md` and print the R
 - `math_questions.md` - the questions the agent solves
 - `.env.example` - template for your API key
 
-  
-你只需要把这一行：
+
 
 ```md
 Video link: https://youtu.be/94B-9ok4MoI
